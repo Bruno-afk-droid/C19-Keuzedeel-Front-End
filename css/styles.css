@@ -1,0 +1,42 @@
+h1{
+    font: Source Sans Pro, regular;
+    size: 16px;
+    color: #5a5150;
+    line-height:1.8;
+}
+
+h2{
+    font: Karla, regular;
+    size: 40px;
+    color: #4e4b4b;
+    line-height:1.2;
+}
+
+h3{
+    font: Karla, regular;
+    size: 16px;
+    color: #4e4b4b;
+    line-height:1.4;
+}
+
+h4{
+    font: Karla;
+    size: 16px;
+    color: #919291;
+    line-height:1.4;
+}
+
+a{
+    font: Karla;
+    size: 14px;
+    color: #ca404f;
+    line-height: 1.4;
+}
+
+button{
+    font: karla,bold;
+    size: 16px;
+    color: #ffffff;
+    line-height: 42px;
+    background-color: #ca404f;
+}
